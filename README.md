@@ -38,6 +38,6 @@ $ Dolar | R$ Real | € Euro
 
 If you want to contact us to negotiate values, close contract or even better understand how our tool works we are the arrangement.
 
-E-mail: mreport@vaultcorp.com.br
-Website: https://wwww.vaultcorp.com.br/mreport
-Fanpage: https://wwww.facebook.com.br/VaultCorporation
+- E-mail: mreport@vaultcorp.com.br
+- Website: https://wwww.vaultcorp.com.br/mreport
+- Fanpage: https://wwww.facebook.com.br/VaultCorporation
