@@ -2,6 +2,8 @@
 
 This tool was created to generate reports of your corporate environments, in a simple, effective and personalized way.
 
+![banner](mreport_banner.png)
+
 # High Availability:
 
 Our system is made to handle a large amount of load and maintain a high system availability. Because reports of your environments and customers need to be available the whole time.
