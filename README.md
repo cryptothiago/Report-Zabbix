@@ -33,3 +33,11 @@ The value is variable and relative to the stock exchange. However the values can
 $ Dolar | R$ Real | € Euro
 --- | --- | ---
 1,00 | 2,00 | 1,00
+
+# Contact
+
+If you want to contact us to negotiate values, close contract or even better understand how our tool works we are the arrangement.
+
+E-mail: mreport@vaultcorp.com.br
+Website: https://wwww.vaultcorp.com.br/mreport
+Fanpage: https://wwww.facebook.com.br/VaultCorporation
