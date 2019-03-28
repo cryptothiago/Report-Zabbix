@@ -8,14 +8,26 @@ Our system is made to handle a large amount of load and maintain a high system a
 
 ## Servers and Applications:
 
-- Servers: Zabbix + Apache
-- Servers: Relatório + Apache
-- Servers: Banco de dados
+- Servers: Zabbix + Apache.
+- Servers: Report + Apache.
+- Servers: Database.
+
+## Proxy Encrypted
+
+The metrics collected by the Zabbix agent from your environment will be sent to a virtual machine that will contain an encrypted proxy, where a VPN will be established and sent to our Zabbix server. The metrics will be processed and generate a report as requested.
 
 # Features:
 
-- Relatório Personalizado.
-- Envio de e-mail automatizado.
-- Personalização de e-mail.
-- Redução de custo com infraestrutura.
-- Alta disponibilidade.
+- Custom Report.
+- Automated email sending.
+- Personalization of e-mail.
+- Cost reduction with infrastructure.
+- High Availability.
+
+# Prince
+
+The value is variable and relative to the stock exchange. However the values can be negotiated monthly and annually and be adjusted according to the contract. _This amount is paid per unit, ie per report issued._
+
+$ Dolar | R$ Real | € Euro
+--- | --- | ---
+1,00 | 2,00 | 1,00
