@@ -14,7 +14,7 @@ Our system is made to handle a large amount of load and maintain a high system a
 - Servers: Report + Apache.
 - Servers: Database.
 
-## Proxy Encrypted
+# Proxy Encrypted
 
 The metrics collected by the Zabbix agent from your environment will be sent to a virtual machine that will contain an encrypted proxy, where a VPN will be established and sent to our Zabbix server. The metrics will be processed and generate a report as requested.
 
