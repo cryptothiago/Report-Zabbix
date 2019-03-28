@@ -8,9 +8,9 @@ Our system is made to handle a large amount of load and maintain a high system a
 
 ## Servers and Applications:
 
-- 2 Servers: Zabbix + Apache
-- 2 Servers: Relatório + Apache
-- 2 Servers: Banco de dados
+- Servers: Zabbix + Apache
+- Servers: Relatório + Apache
+- Servers: Banco de dados
 
 # Features:
 
