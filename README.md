@@ -26,7 +26,7 @@ The metrics collected by the Zabbix agent from your environment will be sent to 
 - Cost reduction with infrastructure.
 - High Availability.
 
-# Prince
+# Price
 
 The value is variable and relative to the stock exchange. However the values can be negotiated monthly and annually and be adjusted according to the contract. _This amount is paid per unit, ie per report issued._
 
