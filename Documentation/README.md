@@ -23,7 +23,7 @@ Welcome for use manual for MReport software. These pages are created to help the
    - 3.2. [Automated email sending]()
    - 3.3. [Personalization of e-mail]()
    - 3.4. [High Availability]()
+
+## Contact
    
-   ## Contact
-   
-   In case of an error, please contact us via e-mail `docreport@vaultcorp.com.br` and inform us. Or if you prefer, you can report through the same github.
+In case of an error, please contact us via e-mail `docreport@vaultcorp.com.br` and inform us. Or if you prefer, you can report through the same github.
