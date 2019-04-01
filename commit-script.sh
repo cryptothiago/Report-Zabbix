@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Commit all the changes.
 git add .
-git commit -m "teste"
+git commit -m "comment"
 git push origin master
