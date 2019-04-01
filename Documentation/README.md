@@ -2,6 +2,8 @@
 
 Welcome for use manual for MReport software. These pages are created to help the technicals successfully implement this tool in your environment Corporate, from the simple to the more complex.
 
+![banner](../Banner/mreport_banner.png)
+
 ## Summary
 
 1. [Documentation of environments]()
