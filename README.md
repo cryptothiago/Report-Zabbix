@@ -2,7 +2,7 @@
 
 This tool was created to generate reports of your corporate environments, in a simple, effective and personalized way.
 
-![banner](mreport_banner.png)
+![banner](Banner/mreport_banner.png)
 
 # High Availability:
 
