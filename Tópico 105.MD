@@ -55,7 +55,7 @@ Tab
 - **-x Arquivo**: Verificar se há permissão de execução
 - **-s Arquivo**: Verifica se o tamanho do arquivo é maior que 0
 - **-o Arquivo**: Executa um ou outro
-- **-d Diretório**: Verifica se o caminho indicado é um diretório existente`
+- **-d Diretório**: Verifica se o caminho indicado é um diretório existente
 
 
 ### Comparação de Strings
