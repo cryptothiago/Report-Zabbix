@@ -19,7 +19,7 @@
 
 ## CHSH
 
-### O chsh serve simplesmente para alterar o shell utilizado pelo usuário. Por exemplo:
+#### O chsh serve simplesmente para alterar o shell utilizado pelo usuário. Por exemplo:
 
 `$ chsh
 Senha:
@@ -29,9 +29,9 @@ Informe o novo valor ou pressione ENTER para aceitar o padrão
 
 ## TEST
 
-### O comando test possui uma série de opções para comparação de valores e strings.
+#### O comando test possui uma série de opções para comparação de valores e strings.
 
-### Dentro de um script, há 2 formas de sintaxe possíveis:
+#### Dentro de um script, há 2 formas de sintaxe possíveis:
 
 test expressão
 
