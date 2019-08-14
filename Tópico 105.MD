@@ -43,9 +43,6 @@ ou
 
 *Exemplo:* `[ -f /etc/profile ]`
 
-As principais opções utilizadas são:
-
-Tab
 
 ### Análises de Arquivos e Diretórios
 
